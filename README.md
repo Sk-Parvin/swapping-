@@ -1,6 +1,6 @@
 # swapping-
-#Using a temporary variable
-#java
+# using a temporary variable
+# java
 
 import java.util.Scanner;
 public class SwapNumbers {
@@ -21,8 +21,8 @@ public class SwapNumbers {
 
 
 
-#python
-#usingn a temporary variable
+# python
+# using a temporary variable
 # Swapping two numbers using a temporary variable
 
 num1 = int(input("Enter the first number: "))
@@ -35,9 +35,9 @@ print(f"After swapping: num1 = {num1}, num2 = {num2}")
 
 
 
-#swapping
-#without using temporary variable
-#java
+# swapping
+# without using temporary variable
+# java
 
 import java.util.Scanner;
 public class SwapNumbers {
@@ -58,11 +58,10 @@ public class SwapNumbers {
 
 
 
-#python 
-#without using a temporary variable
-
-
+# python 
+# without using a temporary variable
 # Swapping two numbers without using a temporary variable
+
 num1 = int(input("Enter the first number: "))
 num2 = int(input("Enter the second number: "))
 print(f"Before swapping: num1 = {num1}, num2 = {num2}")
